@@ -1,5 +1,5 @@
 # call_math.h
-#  EICROSOFT TECHNOLOGY • MATHEMATICAL CORE ENGINE
+#  EICROSOFT-98• MATHEMATICAL CORE ENGINE
 ### **High-Performance Architecture Specification & User Manual**
 *Copyright © 2026 EICROSOFT-98. All Rights Reserved.*
 
