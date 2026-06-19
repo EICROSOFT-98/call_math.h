@@ -1,13 +1,13 @@
 # call_math.h
 #  EICROSOFT TECHNOLOGY • MATHEMATICAL CORE ENGINE
 ### **High-Performance Architecture Specification & User Manual**
-*Copyright © 2026 EICROSOFT TECHNOLOGY. All Rights Reserved.*
+*Copyright © 2026 EICROSOFT-98. All Rights Reserved.*
 
 ---
 
 ##  LEGAL NOTICE & COPYRIGHT LICENSE
 
-**NOTICE:** This software, including its source code, algorithms, and structural design, is the exclusive intellectual property of **EICROSOFT TECHNOLOGY**. 
+**NOTICE:** This software, including its source code, algorithms, and structural design, is the exclusive intellectual property of **EICROSOFT-98**. 
 
 * **Ownership:** Unauthorized copying, modification, distribution, or reverse engineering of this header file (`call_math.h`) without express written consent from EICROSOFT TECHNOLOGY is strictly prohibited.
 * **Liability:** This software is provided "as is," without warranty of any kind. In no event shall EICROSOFT TECHNOLOGY be liable for any claim, damages, or other liability arising from the use of this engine.
